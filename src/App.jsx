@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react'
+import { useState, useEffect } from 'react';
 import Header from './Components/Header';
 import Main from './Components/Main';
 import Footer from './Components/Footer';
@@ -24,4 +24,4 @@ function App() {
   )
 }
 
-export default App
+export default App;

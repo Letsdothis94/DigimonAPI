@@ -1,0 +1,18 @@
+.footer {
+    color: azure;
+    width: 100vw;
+    height: 250px;
+    position: relative;
+    bottom: 0%;
+    padding: 30px;
+}
+
+.footer h3 {
+    text-align: center;
+    margin: 40px auto;
+}
+
+.footer p {
+    text-align: center;
+    font-size: large;
+}

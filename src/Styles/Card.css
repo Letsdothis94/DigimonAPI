@@ -1,0 +1,21 @@
+body {
+    width: 100vw;
+}
+
+.cardBody {
+    border-radius: 5%;
+    padding: 4px;
+    background: rgb(255, 255, 255);
+    background: radial-gradient(circle, rgba(255, 255, 255, 1) 0%, rgba(223, 224, 249, 1) 61%);
+}
+
+.cardBody img {
+    border-radius: 10%;
+}
+
+.cardBody:hover {
+    cursor: pointer;
+    transform: scale(1.1);
+    border: 2px solid black;
+    transition: .5s ease-in-out ;
+}

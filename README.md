@@ -1,4 +1,4 @@
 # DigimonAPI
-##Digimon info from first season.
+## Digimon info from first season.
 
-###Work in progress...
+### Work in progress...
